@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Lewis Hamilton</title>
+<link rel="icon" type="image/x-icon" href="lewis_hamilton.jpeg"> 
+<link rel="stylesheet" href="pages.css">
+</head>
+<body>
+<header>Lewis Hamilton</header>
+<img src="w11.jpeg" alt="W11" width="26%" height="26%">
+<section>
+<h1>About Lewis Hamilton</H1>
+</section>
+<div>
+<p>
+Lewis Hamilton is a 39 year old driver from the UK. He is a 7 time World Champion tied for the most with Michael Schumacher. He has raced with Mclaren, Mercedes, and will be joining Ferrari in 2025. His most recent win being Saudi Arabia 2021. Many people would call him the greatest of all time with his record amount of championships and wins. With that being said he is a racer for the history books and has even been knighted by King Charles. Beyond F1, Lewis Hamilton is also a fashion icon modeling for brands like Tommy Hilfiger.
+</p>
+</div>
+</body>
+<footer>
+<a href="homepage.html"> Home</a> <a href="max_verstappen.html"> Next</a>
+</html>

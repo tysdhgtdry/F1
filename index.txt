@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>F1</title>
+    <link rel="icon" type="image/x-icon" href="F1Logo.png">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+<style>
+h1 {
+  color: black;
+  text-align: center;
+ font-family: 'Impact', sans-serif;
+}
+</style>
+
+</head>
+<body>
+<h1>Top 3 Active F1 Drivers</h1>
+<br>
+<br>
+   <table>
+    <tr>
+        <td>
+            <a href="lewis_hamilton.html">
+                <img src="lewis_hamilton.jpeg" alt="Lewis Hamilton" width="45%" height="45%">
+            </a>
+            <br>
+            <a href="lewis_hamilton.html">Lewis Hamilton</a>
+        </td>
+        <td>
+            <a href="max_verstappen.html">
+                <img src="max_verstappen.jpeg" alt="Max Verstappen" width="45%" height="45%">
+            </a>
+            <br>
+            <a href="max_verstappen.html">Max Verstappen</a>
+        </td>
+        <td>
+            <a href="fernando_alonso.html">
+                <img src="fernando_alonso.jpeg" alt="Fernando Alonso" width="45%" height="45%">
+            </a>
+            <br>
+            <a href="fernando_alonso.html">Fernando Alonso</a>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+

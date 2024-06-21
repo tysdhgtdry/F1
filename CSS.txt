@@ -1,0 +1,23 @@
+.driver {
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.driver img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.driver h2 {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.driver p {
+    margin-top: 10px;
+    font-size: 14px;
+}

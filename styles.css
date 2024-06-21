@@ -1,0 +1,73 @@
+<head>
+<style>
+
+
+h1 {
+  color: white;
+   margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+.h1 {
+  font-family: "impact",sans-serif;
+}
+td {
+        text-align: center;
+    }
+p {
+  color: red;
+  font-family: arial;
+  font-size: 20px;
+  
+}
+
+body {
+  background-color: #FF1801;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+div {
+  background-color: #FF1801;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+title {
+  text-align: center;
+}
+
+a:link {
+  color: Blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: Black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: tomato;
+  background-color: transparent;
+  text-decoration: underline;
+}
+footer {
+  text-align: left;
+}
+
+
+</style>
+</head>
